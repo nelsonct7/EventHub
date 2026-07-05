@@ -91,6 +91,12 @@ Authorization: Token <your_token>
 - A user can only have **one confirmed reservation per event**.
 - Overbooking is prevented — reservation fails if seats are insufficient.
 
+## Screenshots
+
+![Reservation Success](screen_shots/Reservation%20Success.png)
+![Overbooking Failure](screen_shots/Reservation%20Overbooking%20Failed.png)
+![Reservation Cancel](screen_shots/Reservation%20Cancel.png)
+
 ## Design Decisions
 
 ### User authentication with token-based auth
